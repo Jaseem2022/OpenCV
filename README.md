@@ -1,4 +1,6 @@
 # OpenCV
+Note : This project is based on the video posted by the youtuber Computer Vision Engineer.
+
 This project uses OpenCv and helps to detect the color yellow.
 When color yellow is displayed on the camera frame a bounding box is displayed around it.
 This project uses packages such as OpenCv, Pillow, and numpy.
